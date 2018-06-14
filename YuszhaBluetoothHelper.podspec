@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YuszhaBluetoothHelper"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "yuszha bluetooth helper."
 
   # This description is used to generate tags and improve search results.
@@ -65,7 +65,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "8.0"
   # s.swift-version = "3.2"	
 
   #  When using multiple platforms
